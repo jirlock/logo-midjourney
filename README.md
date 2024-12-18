@@ -1,1 +1,289 @@
 # logo-midjourney
+
+## Prompt
+<code>
+    /imagine a {Type} logo of a {Name}, {Artistic Genre}, {Artistic Technique} by {Designer} --no {Exclusion}
+</code>
+
+## Words
+
+### Type
+- Wordmark
+- Letter mark
+- Combination mark
+- Letterform
+- Pictorial mark
+- Abstract mark
+- Mascot
+- Emblem
+- Responsive
+- Animated
+- Shape-shifting
+- Negative space
+- Minimalist
+- Vintage/retro
+- Hand-drawn
+- Geometric
+- 3D
+- Flat design
+- Gradient
+- Tech
+- Food and beverage
+- Corporate
+- Entertainment
+- Sports
+- Luxury
+- Educational
+- Circular
+- Horizontal
+- Vertical
+- Grid-based
+- Asymmetrical
+- Modular
+- Monochromatic
+- Duotone
+- Multi-colored
+- Black and white
+- Color-changing
+
+### Artistic Genre
+
+- Abstract
+- Abstract Expressionism
+- Academic Art
+- Action Painting
+- Art Deco
+- Art Nouveau
+- Avant-garde
+- Baroque
+- Bauhaus
+- Biomechanical Art
+- Byzantine Art
+- Classicism
+- Color Field
+- Conceptual Art
+- Constructivism
+- Cubism
+- Dada
+- Dark Art
+- De Stijl
+- Digital Art
+- Expressionism
+- Fauvism
+- Folk Art
+- Futurism
+- Gothic
+- Graffiti
+- Impressionism
+- Installation Art
+- Kinetic Art
+- Land Art
+- Mannerism
+- Maximalism
+- Minimalism
+- Modern Art
+- Naive Art
+- Neo-classicism
+- Neo-expressionism
+- Op Art
+- Performance Art
+- Photo-realism
+- Pop Art
+- Post-impressionism
+- Precisionism
+- Primitive Art
+- Realism
+- Renaissance
+- Rococo
+- Romanticism
+- Social Realism
+- Street Art
+- Suprematism
+- Surrealism
+- Symbolism
+- Tachisme
+- Traditional Art
+- Urban Art
+- Video Art
+- Vorticism
+
+### Artistic Technique
+
+- Acrylic Pouring
+- Airbrush
+- Alla Prima
+- Assemblage
+- Batik
+- Blending
+- Block Printing
+- Brush Hatching
+- Burnishing
+- Calligraphy
+- Chiaroscuro
+- Collage
+- Color Blocking
+- Color Washing
+- Contour Drawing
+- Cross-hatching
+- Decalcomania
+- Decoupage
+- Doodling
+- Dot Work
+- Dripping
+- Dry Brush
+- Embossing
+- Encaustic
+- Engraving
+- Etching
+- Finger Painting
+- Foreshortening
+- Fresco
+- Frottage
+- Glazing
+- Gouache
+- Granulation
+- Grattage
+- Gridding
+- Grisaille
+- Hands-Off Painting
+- Hatching
+- Impasto
+- Intaglio
+- Layering
+- Linocut
+- Lithography
+- Marbling
+- Masking
+- Mixed Media
+- Modeling
+- Monotype
+- Mosaics
+- Oil Painting
+- Outline
+- Palette Knife
+- Paper Cutting
+- Pastels
+- Pencil Shading
+- Perspective Drawing
+- Pointillism
+- Relief Printing
+- Reverse Glass Painting
+- Sanding
+- Sgraffito
+- Silk Screening
+- Silverpoint
+- Splattering
+- Spray Painting
+- Stamping
+- Stippling
+- Stenciling
+- Subtractive Drawing
+- Tempera
+- Tenebrism
+- Texture Mapping
+- Trompe l'oeil
+- Underpainting
+- Wash
+- Watercolor
+- Wet-on-Wet
+- Woodcut
+- Zentangle
+
+
+### Designer
+
+- Leonardo da Vinci
+- Vincent van Gogh
+- Pablo Picasso
+- Claude Monet
+- Salvador Dalí
+- Frida Kahlo
+- Georgia O'Keeffe
+- Andy Warhol
+- Rembrandt
+- Michelangelo
+- Gustav Klimt
+- Henri Matisse
+- Jackson Pollock
+- Jean-Michel Basquiat
+- Wassily Kandinsky
+- Keith Haring
+- Yayoi Kusama
+- David Hockney
+- Marina Abramović
+- Paul Rand
+- Saul Bass
+- Milton Glaser
+- Stefan Sagmeister
+- Paula Scher
+- Chip Kidd
+- Massimo Vignelli
+- David Carson
+- Neville Brody
+- Jessica Walsh
+- Michael Bierut
+- Peter Saville
+- April Greiman
+- Herb Lubalin
+- Alan Fletcher
+- Coco Chanel
+- Christian Dior
+- Yves Saint Laurent
+- Alexander McQueen
+- Vera Wang
+- Giorgio Armani
+- Ralph Lauren
+- Vivienne Westwood
+- Tom Ford
+- Karl Lagerfeld
+- Stella McCartney
+- Marc Jacobs
+- Valentino Garavani
+- Donatella Versace
+- Rei Kawakubo
+- Dieter Rams
+- Charles and Ray Eames
+- Philippe Starck
+- Jony Ive
+- Karim Rashid
+- Ross Lovegrove
+- Marc Newson
+- Yves Béhar
+- Patricia Urquiola
+- Ora-Ïto
+- Frank Lloyd Wright
+- Le Corbusier
+- Zaha Hadid
+- Frank Gehry
+- Ludwig Mies van der Rohe
+- Tadao Ando
+- Norman Foster
+- Santiago Calatrava
+- Bjarke Ingels
+- Renzo Piano
+- Damien Hirst
+- Jeff Koons
+- Ai Weiwei
+- Takashi Murakami
+- Banksy
+- Olafur Eliasson
+- KAWS
+- Daniel Arsham
+- JR
+- Kehinde Wiley
+- Joshua Davis
+- Erik Spiekermann
+- James Turrell
+- Yugo Nakamura
+- Joshua Davis
+- Casey Reas
+- Daniel Brown
+- Cory Arcangel
+- TeamLab
+- Random International
+
+### Exclusion
+- shading detail
+- photorealistic details
+- text
+- realistic details
